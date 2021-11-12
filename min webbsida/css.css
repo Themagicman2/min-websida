@@ -1,0 +1,35 @@
+p{
+    color: rgb(215, 182, 238);
+    font-size: 50px;
+}
+h1 + p{
+    color: rgb(0, 255, 191);
+}
+
+table, tr, th{
+    border: 1px solid black;
+border-collapse: collapse;
+height: 2000px;
+}
+body{
+background-color: rgb(255, 255, 255);
+}
+
+table{
+   margin-left: 10rem;
+}
+
+.saft{
+    color: rgb(255, 0, 170)
+
+}
+
+h1{
+    font-size: 50px
+}
+
+p:nth-child(5){color: indigo;}
+
+td{
+    margin-left: 10rem;
+}
